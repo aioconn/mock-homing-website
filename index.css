@@ -1,0 +1,50 @@
+body{
+    margin: 1em 4em;
+    font-family: 'Quicksand', sans-serif;
+}
+
+svg{
+    color: #3f95d0;
+    transform: scale(2);
+}
+
+svg:hover{
+    cursor: pointer;
+}
+
+#contactUsButton{
+    color: white;
+    background-color: #3f95d0;
+    font-size: 25px;
+}
+
+#houseIcon{
+    margin-right: 17px !important;
+}
+
+#houseImg{
+    border-radius: 30px;
+}
+
+#slogan{
+    font-size: 55px;
+}
+
+.saveAndScheduleBoxes{
+    border: solid #0D0106;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+.navLink{
+    font-size: 21px;
+    color: black !important;
+    transition: background-color .6s, color .6s;
+}
+
+.navLink:hover{
+    background-color: #3f95d0;
+    color: azure !important;
+}
+
+
